@@ -1,0 +1,8 @@
+{
+    "realm": "gateway-api",
+    "bearer-only": true,
+    "auth-server-url": "http://localhost:8080/realms/gateway-api/account/#/",
+    "ssl-required": "external",
+    "resource": "gateway-api",
+    "confidential-port": 0
+  }
